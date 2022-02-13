@@ -2,9 +2,11 @@
 
 ##React Router v6
 ###useNavigate
+###Navigate
 ###Routes
 ###Route
 ###Link
+
 
 ### `npm start`
 
