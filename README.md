@@ -1,10 +1,10 @@
 # -REACT-COMPOSE-PROJECT-
 
-##-React Router v6
-###+useNavigate
-###+Routes
-###+Route
-###+Link
+##React Router v6
+###useNavigate
+###Routes
+###Route
+###Link
 
 ### `npm start`
 
